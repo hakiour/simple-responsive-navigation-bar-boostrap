@@ -6,15 +6,32 @@ body {
 /*Navigation bar*/
 .navbar-design {
 	border-bottom: 3px solid #CA8DF7 !important;
+	font-size: 18px !important;
 }
 
 .nav.navbar-nav li a, .navbar-header a{
     color: #85ce5b !important;
 }
 
-/*Navigator -> active elements*/
+.navbar-brand{
+	font-size: 22px !important;
+}
+/*Navigation -> active elements*/
 .navbar.navbar-design li a:hover, .navbar.navbar-design li a:active, .navbar.navbar-design li a:focus  {
     background-color: #081202 !important;
     color: #edf8e7 !important;
-    font-size: 18px;
+    font-size: 22px;
+}
+/*Navigation -> Buttons */
+.fa {
+	margin-top: 7px;
+	padding:3px;
+	font-size: 20px !important;
+	color: #85ce5b;
+}
+.fa:hover {
+	color: #edf8e7 !important;
+    opacity: 0.8;
+    margin-top: 2px;
+    font-size: 25px !important;
 }
