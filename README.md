@@ -12,3 +12,5 @@ You can se the navigation bar witouth donwload it with this link: http://htmlpre
 <img src="http://i.imgur.com/CtXw3P3.png">
 <img src="http://i.imgur.com/aobiE9h.png">
 </p>
+
+Palette: http://www.color-hex.com/color/51ba16
