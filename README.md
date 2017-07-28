@@ -6,9 +6,12 @@ You can se the navigation bar witouth donwload it with this link: http://htmlpre
 
 <p align="center">
 <img src="http://i.imgur.com/pgUT6r2.png">
+<img src="http://i.imgur.com/CGUhA97.png">
+
 </p>
 <h1>Responsive</h1> The navigator bar is responsive, that's means you can see this on all devices with good quality.
 <p align="center">
+<img src="http://i.imgur.com/5h0nDPa.png">
 <img src="http://i.imgur.com/CtXw3P3.png">
 <img src="http://i.imgur.com/aobiE9h.png">
 </p>
